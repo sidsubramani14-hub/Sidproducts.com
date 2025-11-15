@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+.box {
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+input, button {
+  padding: 10px;
+  margin-top: 10px;
+  width: 100%;
+}
+
+#adminSection {
+  display: none;
+  margin-top: 30px;
+}
